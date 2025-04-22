@@ -1,0 +1,6 @@
+
+         * A user walks towrds the dustbin
+ 
+         * The dust bin opens 
+
+         * Closes when the user walks away from the dust bin
